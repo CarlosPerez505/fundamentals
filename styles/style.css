@@ -35,4 +35,7 @@ table, td, th {
     display: inline-block;
 }
 
+input, label {
+    display: block;
+}
 
